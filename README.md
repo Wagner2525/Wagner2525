@@ -1,8 +1,8 @@
 ### Olá! Me chamo Wagner Lucas. Seja bem-vindo!🙋‍♂️
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/wagnerlucaas/) 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https:https://www.instagram.com/wagner_lucas0/)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](wagnerlucas387@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/wagner_lucas0/)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:wagnerlucas387@gmail.com)
 
 ![Wagner GitHub stats](https://github-readme-stats.vercel.app/api?username=Wagner2525&show_icons=true&theme=dark)
 
