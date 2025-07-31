@@ -13,7 +13,6 @@
   <img align = "center" alt = "html5" src = "https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
   <img align = "center" alt = "html5" src = "https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white">
   <img align = "center" alt = "html5" src = "https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black">
-  <img align = "center" alt = "html5" src = "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
 </div><br/>
 
 Entusiasta de dados e tecnologia, sempre aprendendo e aplicando.
